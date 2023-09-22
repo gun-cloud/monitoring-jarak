@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849038820678",
+    "firebase_url": "https://monitoringjarakiot-default-rtdb.firebaseio.com",
+    "project_id": "monitoringjarakiot",
+    "storage_bucket": "monitoringjarakiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849038820678:android:15a19b2b743720163b5147",
+        "android_client_info": {
+          "package_name": "gunawan.hendri.monitoringjarak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849038820678-amlgdff8de2p5tm7gpqtilgtdsjokjnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x34EyAwJ_fBJq0ESwfrD_ZO8iKVTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849038820678-amlgdff8de2p5tm7gpqtilgtdsjokjnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
